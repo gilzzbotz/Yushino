@@ -96,7 +96,7 @@ global.nomorwa = '0'
 
 global.readMore = readMore
 global.author = 'Gilzz - MD'
-global.namebot = ''Gilzz - MD'
+global.namebot = 'Gilzz - MD'
 global.wm = '© 𝘾𝙧𝙚𝙖𝙩𝙚𝙙 𝘽𝙮 GilzzMD'
 global.media = 'https://telegra.ph/file/67467563f61584802f19c.jpg'
 global.wm = 'Gilzz Aza'
